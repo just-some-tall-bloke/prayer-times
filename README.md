@@ -3,12 +3,14 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/HouariZegai/PrayerTimes/master/LICENSE)
 
 Desktop app for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) :alarm_clock: for the prayer times. <br />
-أداة تساعدك على معرفة أوقات الصلاة في ولايات الجزائر وتقوم كذلك بتشغيل الأذان عندما يحين موعد الصلاة
+أداة تساعدك على معرفة أوقات الصلاة في الجزائر وعدة دول أخرى وتقوم كذلك بتشغيل الأذان عندما يحين موعد الصلاة
 
 ## Features
 * [x] Simple to use 
-* [x] All Algeria cities have been added
-* [x] Remember your settings (selected city, adhan, ..ect)
+* [x] All Algeria cities + major cities of Indonesia, Turkey, Pakistan, Egypt, Saudi Arabia, Morocco and Malaysia
+* [x] Interface languages: العربية / English
+* [x] Selectable prayer calculation method (defaults to Umm Al-Qura, Makkah)
+* [x] Remember your settings (selected city, adhan, language, method, ..ect)
 * [x] Can hide the app to be on the system tray
 
 ## Screenshots
